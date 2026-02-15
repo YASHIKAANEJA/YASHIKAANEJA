@@ -6,6 +6,16 @@
   <img src="https://readmetypingsvg.herokuapp.comfont=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Learning+The +Language+Of +Data;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
 </div>
 
+<p align="center">
+  <img src="https://your-banner-image-url.com" alt="Banner" width="800"/>
+</p>
+
+<p align="center">
+  🌟 <strong>Data Analyst</strong> 
+  <br>
+  <em>🔄 Exploring the world of data...</em>
+</p>
+
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://www.linkedin.com/in/yashika-aneja-302167368/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
