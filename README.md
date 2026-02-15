@@ -3,16 +3,13 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readmetypingsvg.herokuapp.comfont=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Learning+The +Language+Of +Data;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
-</div>
-
-<p align="center">
-  <img src="https://your-banner-image-url.com" alt="Banner" width="800"/>
-</p>
+  <!-- <img src="https://readmetypingsvg.herokuapp.comfont=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Learning+The +Language+Of +Data;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+</div> -->
 
 <p align="center">
   🌟 <strong>Data Analyst</strong> 
   <br>
+  🚀 <strong>Learning the Language of Data</strong> 
   <em>🔄 Exploring the world of data...</em>
 </p>
 
