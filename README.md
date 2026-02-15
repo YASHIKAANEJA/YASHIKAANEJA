@@ -9,7 +9,6 @@
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://www.linkedin.com/in/yashika-aneja-302167368/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <!-- <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a> -->
   <a href="yashikaaneja265@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
@@ -19,22 +18,20 @@ Emerging Data Analyst on a quest to unlock the mysteries of data! 📊✨ I beli
 My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website] https://www.datascienceportfol.io/yashikaaneja265
+### [🏆 Check Out My Full Portfolio Website] - https://www.datascienceportfol.io/yashikaaneja265
       
-## 🔭 What I'm Currently Working On 
+## 🚀 Current Adventures
+🌱 I’m diving deep into:
+- Data Analysis
+- Data Visualization
+- PowerBI , SQL
+- Web Development
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
-
-## 🌱 Currently Learning 
-
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
-
-## 🛠️ Technical Skillset
-
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+## 🛠️ Tech Stack
+Here’s the arsenal I use:
+- **Languages:** Python , SQL , HTML, CSS , JavaScript
+- **Frameworks:** React, Tailwind CSS
+- **Tools:** Git, GitHub, VS Code
 
 #### Data Analysis & Visualization
 <p>
