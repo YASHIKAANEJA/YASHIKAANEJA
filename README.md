@@ -10,6 +10,7 @@
   🌟 <strong>Data Analyst</strong> 
   <br>
   🚀 <strong>Learning the Language of Data</strong> 
+  <br>
   <em>🔄 Exploring the world of data...</em>
 </p>
 
@@ -62,3 +63,5 @@ Here’s the arsenal I use:
   <!-- <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge"> -->
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
+
+Thank you for visiting my GitHub profile! 💚 Let's collaborate, create, and make something awesome together! 🌍✨
