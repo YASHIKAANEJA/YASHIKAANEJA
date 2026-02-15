@@ -39,7 +39,7 @@ My focus is on building dashboards that get used, automating repetitive tasks to
 Here’s the arsenal I use:
 - **Languages:** Python , SQL , HTML, CSS , JavaScript
 - **Frameworks:** React, Tailwind CSS
-- **Tools:** Git, GitHub, VS Code
+- **Tools:** PowerBI , Excel , Git, GitHub, VS Code
 
 #### Data Analysis & Visualization
 <p>
