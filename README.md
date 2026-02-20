@@ -18,7 +18,7 @@
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://www.linkedin.com/in/yashika-aneja-302167368/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="yashikaaneja265@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=data"></a>
+  <a href="yashikaaneja265@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=email"></a>
 </p>
 
 ## 🚀 About Me 
